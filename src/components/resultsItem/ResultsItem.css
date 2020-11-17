@@ -1,0 +1,28 @@
+.book-title {
+    text-align: center;
+    font-size: 32px;
+}
+
+.book-display {
+    display: flex;
+}
+
+.flex-5 {
+    flex: .2;
+}
+
+.book-info {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    font-size: 24px;
+}
+
+img {
+    max-width: max-content;
+    max-height: max-content;
+}
+
+.flex-1 {
+    flex: 1;
+}

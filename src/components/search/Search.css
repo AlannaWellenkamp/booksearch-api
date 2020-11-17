@@ -1,0 +1,12 @@
+.text-search {
+    background-color: grey;
+}
+
+.selection-options {
+    background-color: lightgrey;
+}
+
+form {
+    margin: auto;
+    text-align: center;
+}
